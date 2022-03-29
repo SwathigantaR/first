@@ -18,7 +18,7 @@ char j='w';
 System.out.println(j);
 int t=100;
 System.out.println(t);
-	}//thisb is first progranm
+	}//this is my first progranm
 
 	}
 
