@@ -7,6 +7,7 @@ public class Demofinal {
 final int a=90;
 int b=a+1;
 int a1=b;
+		System.out.println(b);
 
 	}
 
