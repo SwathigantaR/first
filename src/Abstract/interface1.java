@@ -4,8 +4,8 @@ public class interface1 {
 //having a class extends  with class which is implements 2 interfaces 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//child1 C;
-//C= new child1();
+child1 C;
+C= new child1();
 //C.show();
 //		Parent  ch;
 //        ch=new Parent();
